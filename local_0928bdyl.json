@@ -1,4 +1,4 @@
-{
+﻿{
   "sites": [
     {
       "key": "",
@@ -1964,7 +1964,7 @@
       "ext": "clan://tvboxhh/0928bdyl/cctv/py_cctvxq.py"
     }
   ],
-  "spider": "clan://tvboxhh/0928bdyl/999.png",
+  "spider": "https://raw.githubusercontent.com/chuanshuo123200/2/main/999.png",
   "wallpaper": "https://tool.weetai.cn/api",
   "lives": [
     {
