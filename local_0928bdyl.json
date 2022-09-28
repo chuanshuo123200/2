@@ -1,4 +1,4 @@
-﻿{
+{
   "sites": [
     {
       "key": "",
@@ -327,7 +327,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/Bili/哔哩套餐.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/Bili/哔哩套餐.json"
     },
     {
       "key": "儿童",
@@ -337,7 +337,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/Bili/儿童乐园.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/Bili/儿童乐园.json"
     },
     {
       "key": "学习",
@@ -347,7 +347,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/Bili/学习园地.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/Bili/学习园地.json"
     },
     {
       "key": "软件",
@@ -357,7 +357,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/Bili/软件教程.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/Bili/软件教程.json"
     },
     {
       "key": "美食",
@@ -367,7 +367,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/Bili/美食合集.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/Bili/美食合集.json"
     },
     {
       "key": "音乐",
@@ -377,7 +377,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/Bili/音乐现场.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/Bili/音乐现场.json"
     },
     {
       "key": "热舞",
@@ -387,7 +387,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/Bili/女团热舞.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/Bili/女团热舞.json"
     },
     {
       "key": "戏曲",
@@ -397,7 +397,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/Bili/戏曲合集.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/Bili/戏曲合集.json"
     },
     {
       "key": "短视频聚合",
@@ -407,7 +407,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/短视频聚合.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/短视频聚合.json"
     },
     {
       "key": "csp_Yj1211",
@@ -426,7 +426,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/虎牙.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/虎牙.json"
     },
     {
       "key": "csp_biubiu_斗鱼",
@@ -436,7 +436,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/斗鱼.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/斗鱼.json"
     },
     {
       "key": "网易CC",
@@ -446,7 +446,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/网易CC.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/网易CC.json"
     },
     {
       "key": "csp_xpath_酷狗MV",
@@ -456,7 +456,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/酷狗MV.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/酷狗MV.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -466,7 +466,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/酷奇MV.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/酷奇MV.json"
     },
     {
       "key": "ASMR",
@@ -484,7 +484,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/Alist.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/Alist.json"
     },
     {
       "key": "csp_bendi",
@@ -500,7 +500,7 @@
       "key": "T4聚合",
       "name": "🌏T4聚合",
       "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=https://gitcode.net/bd/v/-/raw/main/txt/al.txt&timeout=5",
+      "api": "https://t4.secan.icu/vod?sites=all&ali_token=https://raw.iqiq.io/chuanshuo123200/2/main/txt/al.txt&timeout=5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -513,7 +513,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/txt/al.txt"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/txt/al.txt"
     },
     {
       "key": "Upyunso",
@@ -524,7 +524,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/txt/al.txt"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/txt/al.txt"
     },
     {
       "key": "FindZY",
@@ -534,7 +534,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/txt/al.txt"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/txt/al.txt"
     },
     {
       "key": "AliPS",
@@ -544,7 +544,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/txt/al.txt"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/txt/al.txt"
     },
     {
       "key": "csp_Yiso",
@@ -554,7 +554,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/txt/al.txt"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/txt/al.txt"
     },
     {
       "key": "push_agent",
@@ -564,7 +564,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/txt/al.txt"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/txt/al.txt"
     },
     {
       "key": "17kan",
@@ -574,7 +574,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/17看球.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/17看球.json"
     },
     {
       "key": "csp_xpath_88kanqiu",
@@ -584,7 +584,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/88看球.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/88看球.json"
     },
     {
       "key": "csp_XYQBiu_310直播",
@@ -594,7 +594,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/310直播.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/310直播.json"
     },
     {
       "key": "csp_xpath_球迷直播",
@@ -604,7 +604,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/球迷直播.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/球迷直播.json"
     },
     {
       "key": "JRS看球网",
@@ -614,7 +614,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/JRS看球网.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/JRS看球网.json"
     },
     {
       "key": "csp_xpath_yinfans",
@@ -624,7 +624,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/音范丝.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/音范丝.json"
     },
     {
       "key": "bdys",
@@ -634,7 +634,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/磁力.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/磁力.json"
     },
     {
       "key": "csp_xBPQ_胖虎",
@@ -644,7 +644,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/XBPQ/胖虎影视.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/XBPQ/胖虎影视.json"
     },
     {
       "key": "csp_xBPQ_在线之家",
@@ -834,7 +834,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/XBPQ/胖虎影视.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/XBPQ/胖虎影视.json"
     },
     {
       "key": "csp_xBPQ_COKEMV",
@@ -854,7 +854,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/XBPQ/LIBVIO.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/XBPQ/LIBVIO.json"
     },
     {
       "key": "csp_xBPQ_真不卡",
@@ -954,7 +954,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/氢视频.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/氢视频.json"
     },
     {
       "key": "csp_XYQHiker_冷曦影视",
@@ -964,7 +964,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/冷曦影视.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/冷曦影视.json"
     },
     {
       "key": "csp_xf_heihei",
@@ -974,7 +974,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/嘿嘿视频.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/嘿嘿视频.json"
     },
     {
       "key": "csp_biubiu_在线之家",
@@ -984,7 +984,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/在线之家.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/在线之家.json"
     },
     {
       "key": "csp_XYQBiu_凌云影视",
@@ -994,7 +994,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/凌云影视.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/凌云影视.json"
     },
     {
       "key": "csp_XYQBiu_凌云韩国",
@@ -1004,7 +1004,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/凌云韩国.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/凌云韩国.json"
     },
     {
       "key": "csp_XYQBiu_万能影院",
@@ -1014,7 +1014,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/万能影院.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/万能影院.json"
     },
     {
       "key": "csp_XYQBiu_大米星球",
@@ -1024,7 +1024,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/大米星球xyq.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/大米星球xyq.json"
     },
     {
       "key": "csp_XBiubiu_大米星球",
@@ -1034,7 +1034,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/大米星球.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/大米星球.json"
     },
     {
       "key": "csp_xp_jLgyy",
@@ -1044,7 +1044,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/蓝光影院.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/蓝光影院.json"
     },
     {
       "key": "不卡影院",
@@ -1054,7 +1054,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/不卡影院.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/不卡影院.json"
     },
     {
       "key": "干饭影视",
@@ -1064,7 +1064,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/干饭影视.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/干饭影视.json"
     },
     {
       "key": "口袋影院",
@@ -1074,7 +1074,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/口袋影院.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/口袋影院.json"
     },
     {
       "key": "比特影视",
@@ -1084,7 +1084,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/比特影视.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/比特影视.json"
     },
     {
       "key": "花猫影视",
@@ -1094,7 +1094,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/花猫影视.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/花猫影视.json"
     },
     {
       "key": "csp_biubiu_骚火电影",
@@ -1104,7 +1104,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/骚火电影.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/骚火电影.json"
     },
     {
       "key": "六度影视",
@@ -1114,7 +1114,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/六度影视.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/六度影视.json"
     },
     {
       "key": "csp_biubiu_影视工厂",
@@ -1124,7 +1124,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/影视工厂.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/影视工厂.json"
     },
     {
       "key": "csp_biubiu_555电影",
@@ -1134,7 +1134,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/555电影.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/555电影.json"
     },
     {
       "key": "csp_XBiubiu_UM影视",
@@ -1144,7 +1144,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/UM影视.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/UM影视.json"
     },
     {
       "key": "csp_biubiu_cupfox",
@@ -1154,7 +1154,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/茶杯狐.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/茶杯狐.json"
     },
     {
       "key": "csp_biubiu_dadagui",
@@ -1164,7 +1164,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/达达龟.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/达达龟.json"
     },
     {
       "key": "csp_biubiu_voflix",
@@ -1174,7 +1174,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/voflix.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/voflix.json"
     },
     {
       "key": "csp_XBiubiu_TVB云播",
@@ -1184,7 +1184,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/tvb云播.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/tvb云播.json"
     },
     {
       "key": "LIBVIO",
@@ -1194,7 +1194,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/LIBVIO.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/LIBVIO.json"
     },
     {
       "key": "COKEMV",
@@ -1204,7 +1204,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/COKEMV.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/COKEMV.json"
     },
     {
       "key": "Auete影视",
@@ -1214,7 +1214,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/Auete影视.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/Auete影视.json"
     },
     {
       "key": "csp_XBiubiu哔嘀影视",
@@ -1224,7 +1224,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/哔嘀影视.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/哔嘀影视.json"
     },
     {
       "key": "云播看看",
@@ -1234,7 +1234,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/云播看看.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/云播看看.json"
     },
     {
       "key": "小强影迷",
@@ -1244,7 +1244,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/小强影迷.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/小强影迷.json"
     },
     {
       "key": "人人影视",
@@ -1254,7 +1254,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/人人影视.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/人人影视.json"
     },
     {
       "key": "csp_XBiubiu_金眼影视",
@@ -1264,7 +1264,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/金眼影视.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/金眼影视.json"
     },
     {
       "key": "csp_XBiubiu_Nike影视",
@@ -1274,7 +1274,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/Nike影视.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/Nike影视.json"
     },
     {
       "key": "csp_XBiubiu_0855",
@@ -1284,7 +1284,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/0855影视.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/0855影视.json"
     },
     {
       "key": "去看动漫",
@@ -1294,7 +1294,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/去看动漫.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/去看动漫.json"
     },
     {
       "key": "动漫直链",
@@ -1304,7 +1304,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/动漫直链.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/动漫直链.json"
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -1314,7 +1314,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/风车动漫.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/风车动漫.json"
     },
     {
       "key": "csp_xpath___动漫巴士",
@@ -1324,7 +1324,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/动漫巴士.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/动漫巴士.json"
     },
     {
       "key": "csp_biubiu_OmoFun动漫",
@@ -1334,7 +1334,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/OmoFun动漫.json"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/OmoFun动漫.json"
     },
     {
       "key": "9E03",
@@ -1611,7 +1611,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_cctv.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_cctv.py"
     },
     {
       "key": "py_bilibili",
@@ -1621,7 +1621,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_bilibili.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_bilibili.py"
     },
     {
       "key": "py_bilimd",
@@ -1631,7 +1631,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_bilimd.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_bilimd.py"
     },
     {
       "key": "py_huya",
@@ -1641,7 +1641,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_huya.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_huya.py"
     },
     {
       "key": "py_douyu",
@@ -1651,7 +1651,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_douyu.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_douyu.py"
     },
     {
       "key": "py_kuaikan",
@@ -1661,7 +1661,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_kuaikan.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_kuaikan.py"
     },
     {
       "key": "py_lezhu",
@@ -1671,7 +1671,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_lezhu.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_lezhu.py"
     },
     {
       "key": "py_3qu",
@@ -1681,7 +1681,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_3qu.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_3qu.py"
     },
     {
       "key": "py_cyys",
@@ -1691,7 +1691,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_cyys.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_cyys.py"
     },
     {
       "key": "py_star",
@@ -1701,7 +1701,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_star.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_star.py"
     },
     {
       "key": "py_czspp",
@@ -1711,7 +1711,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_czspp.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_czspp.py"
     },
     {
       "key": "py_zxzj",
@@ -1721,7 +1721,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_zxzj.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_zxzj.py"
     },
     {
       "key": "py_gimytv",
@@ -1731,7 +1731,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_gimytv.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_gimytv.py"
     },
     {
       "key": "py_genmov",
@@ -1741,7 +1741,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_genmov.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_genmov.py"
     },
     {
       "key": "py_cokemv",
@@ -1751,7 +1751,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_cokemv.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_cokemv.py"
     },
     {
       "key": "py_cup",
@@ -1761,7 +1761,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_cup.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_cup.py"
     },
     {
       "key": "py_voflix",
@@ -1771,7 +1771,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_voflix.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_voflix.py"
     },
     {
       "key": "py_xmaomi",
@@ -1781,7 +1781,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_xmaomi.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_xmaomi.py"
     },
     {
       "key": "py_alist",
@@ -1791,7 +1791,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_alist.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_alist.py"
     },
     {
       "key": "py_gitcafe",
@@ -1801,7 +1801,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_gitcafe.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_gitcafe.py"
     },
     {
       "key": "py_zhaozy",
@@ -1811,7 +1811,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_zhaozy.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_zhaozy.py"
     },
     {
       "key": "py_yiso",
@@ -1821,7 +1821,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_yiso.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_yiso.py"
     },
     {
       "key": "py_pansou",
@@ -1831,7 +1831,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_pansou.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_pansou.py"
     },
     {
       "key": "push_agent2",
@@ -1841,7 +1841,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "clan://tvboxhh/0928bdyl/json/py_ali.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/json/py_ali.py"
     },
     {
       "key": "py_cctvzh",
@@ -1851,7 +1851,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/cctv/py_cctvzh.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/cctv/py_cctvzh.py"
     },
     {
       "key": "py_cctvxw",
@@ -1861,7 +1861,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/cctv/py_cctvxw.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/cctv/py_cctvxw.py"
     },
     {
       "key": "py_cctvzy",
@@ -1871,7 +1871,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/cctv/py_cctvzy.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/cctv/py_cctvzy.py"
     },
     {
       "key": "py_cctvdy",
@@ -1881,7 +1881,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/cctv/py_cctvdy.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/cctv/py_cctvdy.py"
     },
     {
       "key": "py_cctvty",
@@ -1891,7 +1891,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/cctv/py_cctvty.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/cctv/py_cctvty.py"
     },
     {
       "key": "py_cctvfz",
@@ -1901,7 +1901,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/cctv/py_cctv.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/cctv/py_cctv.py"
     },
     {
       "key": "py_cctvkj",
@@ -1911,7 +1911,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/cctv/py_cctvkj.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/cctv/py_cctvkj.py"
     },
     {
       "key": "py_cctvyy",
@@ -1921,7 +1921,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/cctv/py_cctvyy.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/cctv/py_cctvyy.py"
     },
     {
       "key": "py_cctvse",
@@ -1931,7 +1931,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/cctv/py_cctvse.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/cctv/py_cctvse.py"
     },
     {
       "key": "py_cctvny",
@@ -1941,7 +1941,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/cctv/py_cctvny.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/cctv/py_cctvny.py"
     },
     {
       "key": "py_cctvjs",
@@ -1951,7 +1951,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/cctv/py_cctvjs.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/cctv/py_cctvjs.py"
     },
     {
       "key": "py_cctvxq",
@@ -1961,10 +1961,10 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "clan://tvboxhh/0928bdyl/cctv/py_cctvxq.py"
+      "ext": "https://raw.iqiq.io/chuanshuo123200/2/main/cctv/py_cctvxq.py"
     }
   ],
-  "spider": "https://raw.githubusercontent.com/chuanshuo123200/2/main/999.png",
+  "spider": "https://raw.iqiq.io/chuanshuo123200/2/main/999.png",
   "wallpaper": "https://tool.weetai.cn/api",
   "lives": [
     {
@@ -1973,7 +1973,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=Y2xhbjovL3R2Ym94aGgvMDkyOGJkeWwvemIudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9jaHVhbnNodW8xMjMyMDAvMi9tYWluL3piLnR4dA=="
           ]
         }
       ]
